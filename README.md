@@ -8,6 +8,8 @@ Gist
 
 https://gist.github.com/37da1f050f2d4aa191bbf9ba1e175679
 
+Dictionaries: https://gist.github.com/90ffb29279916bd0657d40a4a2c3a82c
+
 
 
 <!---
