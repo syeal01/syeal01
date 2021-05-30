@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on Python codes.
 - 📫 How to reach me, well email me at syeal01@hotmail.com
 
+Gist
+
+https://gist.github.com/37da1f050f2d4aa191bbf9ba1e175679
+
+
+
 <!---
 syeal01/syeal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
